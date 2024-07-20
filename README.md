@@ -25,10 +25,6 @@ Each folder contains subfolders named after specific LeetCode problems. Each pro
 
 While this is a personal archive of my LeetCode solutions, contributions are welcome. If you have an alternative solution to a problem or an improvement to an existing solution, please feel free to submit a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to LeetCode for providing a platform full of rich problems to improve my coding skills.
